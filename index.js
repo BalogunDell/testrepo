@@ -1,3 +1,4 @@
 const palindrome = (word) => {
-  return word
+  
+  return word.length;
 }
